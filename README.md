@@ -1,4 +1,4 @@
-# Infrastructure Deployment Process Documentation
+# AWS EC2 End-to-End setup using Terraform Modules.
 
 ## Objective: The objective of this document is to outline the process of deploying AWS infrastructure using Terraform modules.
 
